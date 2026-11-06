@@ -220,5 +220,7 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Local EPC datasets
-*.csv
 samples/*
+terraform/
+*.tfstate
+*.tfstate.backup
